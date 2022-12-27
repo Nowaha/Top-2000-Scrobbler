@@ -6,7 +6,7 @@ plugins {
     application
 }
 
-group = "xyz.lyulf"
+group = "xyz.nowaha"
 version = "1.0-SNAPSHOT"
 
 repositories {
